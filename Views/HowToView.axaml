@@ -1,0 +1,5 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="How_To.Views.HowToView">
+    <TextBlock Text="This is the Create How-To View" VerticalAlignment="Center" HorizontalAlignment="Center" />
+</UserControl>
